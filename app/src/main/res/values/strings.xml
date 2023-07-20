@@ -1,4 +1,12 @@
 <resources>
     <string name="app_name">NMedia</string>
     <string name="nmedia">NMedia!</string>
+    <string name="description_post_author_avatar" >description_post_author_avatar</string>
+    <string name="description_post_menu" >description_post_menu</string>
+    <string name="like" >like</string>
+    <string name="repost" >repost</string>
+    <string name="counter_like" >20</string>
+    <string name="counter_repost" >15</string>
+    <string name="counter_views" >500</string>
+    <string name="amount_views" >amount_views</string>
 </resources>
